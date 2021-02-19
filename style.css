@@ -1,0 +1,86 @@
+body {
+  font-family: 'Lucida Grande', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
+  background:url(http://busayari.org/youtube/img/ba.gif);
+  margin:0;
+}
+
+.container {
+  text-align: center;
+  width: 1180px;
+  margin-top:0px;
+  margin-bottom:0;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0px;
+  background:url(http://busayari.org/youtube/img/main_back.png) repeat-y;
+}
+
+.container2 {
+  text-align: center;
+  width: 1180px;
+  padding-top:0px;
+  margin-bottom:0;
+  margin-left:auto;
+  margin-right:auto;
+  background:url(http://busayari.org/youtube/img/main_back.png) repeat-y ;
+  height:100%;
+}
+
+.header {
+  text-align: center;
+  width: 1600px;
+  margin-left:auto;
+  margin-right:auto;
+  background:url(http://busayari.org/youtube/img/head_back.png) no-repeat;
+}
+
+.menu {
+  text-align: center;
+  width: 1180px;
+  height:68px;
+  margin-bottom:10;
+  margin-left:auto;
+  margin-right:auto;
+  padding:0px;
+  background:url(http://busayari.org/youtube/img/main_back.png) no-repeat;
+}
+.menu_back {
+	background:url(http://busayari.org/youtube/img/bar_back.gif) no-repeat; 
+	text-align:left; 
+	width:700px;
+	padding-top:10px;
+	margin-top:0px;
+	margin-left:60px;
+	padding-left:5px;
+	height:35px;
+	}
+
+.ha {
+	background:url(http://busayari.org/youtube/img/h1.jpg);
+	background-repeat:repeat-x;
+	background-position:top;
+	height:101px;
+	margin-top:0px;
+	padding-top:0px;
+	}
+	
+.ha1 {
+	background:url(http://busayari.org/youtube/img/h1.jpg);
+	background-repeat:repeat-x;
+	background-position:top;
+	height:101px;
+	margin-top:0px;
+	padding-top:0px;
+	width:90px;
+	}
+	
+	.qa-1 {
+	background:#FF9;
+	font-weight:bold;
+	text-decoration:underline;
+	}
+	
+.qa-2 {
+	background:#FEE;
+	
+	}
